@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xmabr.jianyanjia</string>
+				<string>com.xmabr.jianyanjiaseller</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>建研家</string>
+				<string>建研家卖家版</string>
 			</dict>
 		</dict>
 	</array>
